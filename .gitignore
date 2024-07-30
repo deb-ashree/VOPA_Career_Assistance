@@ -9,6 +9,7 @@ temp/
 # project files
 local.env
 chromaDb/*
+.DS_Store
 
 # C extensions
 *.so
