@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore ALL files in ANY directory named temp
+temp/
+
+# project files
+local.env
+chromaDb/*
+
 # C extensions
 *.so
 
