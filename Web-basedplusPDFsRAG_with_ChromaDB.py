@@ -23,7 +23,7 @@ if vector is None:
     # 1. Get a Data Loader
 
     print("Loading from the Web")
-    # List of URLs to load documents from
+    # List of URLs to load the documents from
     urls = [
         # "https://www.careerguidancejpgandhi.com/",
         # "https://www.mindler.com/blog/medical-courses-after-12th/",
