@@ -103,7 +103,7 @@ qa_chain = RetrievalQA.from_chain_type(
         chain_type_kwargs={"prompt": prompt}
     )
 
-question = "What are the career options with Arts" # "How do I get into Engineering" "How do I get into journalism"
+question = "What are the career options with Arts. Respond in proper Marathi " # "How do I get into Engineering" "How do I get into journalism"
 result = qa_chain.invoke({"query": question })
 #print(result)
 
