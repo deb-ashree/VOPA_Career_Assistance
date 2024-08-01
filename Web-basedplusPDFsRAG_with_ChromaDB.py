@@ -102,8 +102,8 @@ qa_chain = RetrievalQA.from_chain_type(
         retriever=vector.as_retriever(),
         chain_type_kwargs={"prompt": prompt}
     )
-
-question = "What are the career options with Arts. Respond in proper Marathi " # "How do I get into Engineering" "How do I get into journalism"
+language = "Respond in proper Marathi."
+question = "What are the career options with Arts"+language # "How do I get into Engineering" "How do I get into journalism"
 result = qa_chain.invoke({"query": question })
 #print(result)
 
