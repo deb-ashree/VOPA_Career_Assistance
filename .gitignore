@@ -10,6 +10,7 @@ temp/
 local.env
 chromaDb/*
 .DS_Store
+scanned_pdf_files/*
 
 # C extensions
 *.so
