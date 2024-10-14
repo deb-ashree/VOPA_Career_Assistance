@@ -1,0 +1,23 @@
+
+1. Test Scenario - Webbased Loader - "https://maharashtracareerportal.com/#googtrans(en)"
+
+a) What should be done at Maharashtra Career Guidance Portal?
+
+    ('At the Maharashtra Career Guidance Portal, users should log in using their '
+    'Saral ID and Password to access their career dashboard. This dashboard '
+    'provides resources for exploring careers, colleges, exams, vocational '
+    'courses, and scholarships. If users do not know their Saral ID, they should '
+    'contact their teacher or principal for assistance.')
+
+b) What is eMango?
+    "I don't know who eMango is based on the provided context."
+
+
+2. Indigo Flight ticket PDF
+    a) What time was the flight from BLR on 26th?
+        The flight from Bangalore (BLR) on 26th September 2024 was scheduled to '
+        'depart at 10:15 AM.
+
+3. Career guidance book part 1
+    a) Who is Firdose Kapadia? Only provide answer from the current context provided. Otherwise you can mention that you are capable to answer only basis the data provided 
+    "I don't know."
